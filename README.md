@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--  Github stats-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavk28&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdmondkr2002&show_icons=true&theme=tokyonight)
 
 <!-- Most used languages-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavk28&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdmondkr2002&theme=tokyonight)
