@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!--  Github stats-->
 
 <!-- Most used languages-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdmondkr2002&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbdange&theme=tokyonight)
 
 
