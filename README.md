@@ -7,7 +7,6 @@
 - 😀 Trying to be good at DSA
 - 🎓 Pursuing B.Tech in IT at VJTI
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 ## 🛠 Tech Stack
 - 💻&nbsp;
