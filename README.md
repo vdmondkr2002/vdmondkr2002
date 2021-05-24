@@ -8,6 +8,8 @@
 - 🎓 Pursuing B.Tech in IT at VJTI
 - 😄 Pronouns: He/Him
 
+![](https://komarev.com/ghpvc/?username=vdmondkr2002&label=PROFILE+VIEWS)
+
 ## 🛠 Tech Stack
 - 💻&nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
