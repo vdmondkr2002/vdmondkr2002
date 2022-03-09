@@ -39,5 +39,5 @@
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdmondkr2002&theme=tokyonight"/>
 </a>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vdmondkr2002)](https://git.io/streak-stats)
 
